@@ -39,7 +39,7 @@ layout: compress
             {% endif %}
         {% endif %}
 
-            {{ content }}
+        {{ content | replace: '<a href="http', '<a rel="nofollow noopener" target="_blank" href="http' }}
         </div>
     </div>
 
