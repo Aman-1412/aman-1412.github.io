@@ -9,14 +9,15 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: aman
 description: Markdown summary with different options
+excerpt_separator: <!--more-->
 ---
 
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
-
+<!--more-->
 #### Especial Elements
 - [Evidence](#evidence)
 - [Side-by-Side](#side-by-side)
