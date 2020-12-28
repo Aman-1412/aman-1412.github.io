@@ -3,7 +3,7 @@ name: Aman Goyal
 bio: A Man who never has enough time
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Aman Goyal blogs about technology and related stuff here. He tries to play FPS games like CSGO, Valorant on his potato pc, which he also uses to code. A passionate quizzer and a fervent reader(mainly light novels and mangas)
 
 # if it's an external image, update below for true
 # better with square images
@@ -40,7 +40,9 @@ social:
     - https://www.linkedin.com/in/-amangoyal
     - https://github.com/aman-1412
 
-google-site-verification: XMDdOzBjUIrZJZCKFNYauXrjgrgcr7s3qzGFHTJcnIg
+webmaster_verifications:
+  google: XMDdOzBjUIrZJZCKFNYauXrjgrgcr7s3qzGFHTJcnIg
+
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: 
