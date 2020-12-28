@@ -33,9 +33,19 @@ permalink: /:title/
 #   shortname: mydisqus # enter this from your disqus account
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
+social:
+  name: Aman Goyal
+  links:
+    - https://twitter.com/a_man_goyal
+    - https://www.linkedin.com/in/-amangoyal
+    - https://github.com/aman-1412
+
+google-site-verification: XMDdOzBjUIrZJZCKFNYauXrjgrgcr7s3qzGFHTJcnIg
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: a_man_goyal
+twitter: 
+  username: a_man_goyal
+  card: summary
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -52,6 +62,7 @@ github: Aman-1412
 # lanyrd: mylanyrd
 email: goyal.amanr@gmail.com
 
+# Pro-tip: If authors is present in the document's front matter as an array (and author is not), the plugin will use the first author listed, as Twitter supports only one author.
 authors:
   aman:
     name: Aman Goyal
