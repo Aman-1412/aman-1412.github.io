@@ -5,20 +5,23 @@ date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+    - markdown
+    - components
+    - extra
 category: blog
 author: aman
 description: Markdown summary with different options
 excerpt_separator: <!--more-->
 ---
 
-## Summary:
+## Summary
 
 You can pick as item to see how to apply in markdown.
+
 <!--more-->
-#### Especial Elements
+
+### Especial Elements
+
 - [Evidence](#evidence)
 - [Side-by-Side](#side-by-side)
 - [Star](#star)
@@ -26,6 +29,7 @@ You can pick as item to see how to apply in markdown.
 - [Spoiler](#spoiler)
 
 #### External Elements
+
 - [Gist](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
@@ -52,6 +56,7 @@ Like the [Medium](https://medium.com/) component.
 **Image** on the left and **Text** on the right:
 
 {% highlight html %}
+
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
@@ -61,6 +66,7 @@ Like the [Medium](https://medium.com/) component.
     <div class="toright">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
+
 </div>
 {% endhighlight %}
 
@@ -73,11 +79,13 @@ Like the [Medium](https://medium.com/) component.
     <div class="toright">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
+
 </div>
 
 **Text** on the left and **Image** on the right:
 
 {% highlight html %}
+
 <div class="side-by-side">
     <div class="toleft">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -87,6 +95,7 @@ Like the [Medium](https://medium.com/) component.
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
+
 </div>
 {% endhighlight %}
 
@@ -99,6 +108,7 @@ Like the [Medium](https://medium.com/) component.
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
+
 </div>
 
 ---
@@ -115,9 +125,10 @@ star: true
 
 ## Especial Breaker
 
-You can add a especial *hr* to your text.
+You can add a especial _hr_ to your text.
 
 {% highlight html %}
+
 <div class="breaker"></div>
 {% endhighlight %}
 
@@ -130,6 +141,7 @@ You can add a especial *hr* to your text.
 You can add an especial hidden content that appears on hover.
 
 {% highlight html %}
+
 <div class="spoiler"><p>your content</p></div>
 {% endhighlight %}
 
@@ -154,6 +166,7 @@ You can add Gists from github.
 You can add Pens from Codepen.
 
 {% highlight html %}
+
 <p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
     See the Pen <a href='https://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='https://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='https://codepen.io'>CodePen</a>.
 </p>
@@ -170,6 +183,7 @@ You can add Pens from Codepen.
 Add your presentations here!
 
 {% highlight html %}
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 {% endhighlight %}
 
@@ -184,6 +198,7 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 **Example**
 
 {% highlight html %}
+
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
 {% endhighlight %}
 

@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Aman_Goyal_resume.pdf
 
-url: https://aman-1412.github.io
+url: https://amangoyal.me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
