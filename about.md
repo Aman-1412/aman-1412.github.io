@@ -50,10 +50,7 @@ layout: page
     {% for post in site.posts %}
         {% if post.projects %}
             <li>
-			<div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
+			<div class="item {% if post.star %}star{% endif %}"><a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"><h3 class="title">{{ post.title }}</h3></a>
             </div>
 			</li>
         {% endif %}
