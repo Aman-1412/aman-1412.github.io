@@ -9,7 +9,7 @@ description: Aman Goyal blogs about technology and related stuff here. He tries 
 # better with square images
 external-image: false
 # picture: assets/images/profile.jpg
-picture: assets/images/placeholder-profile-male-500x500.png
+picture: assets/images/placeholder-profile-male-500x500-min.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -72,7 +72,7 @@ authors:
     bio: A Man who never has enough time
     description: A blog about technology and related stuff
     external-image: false
-    picture: assets/images/placeholder-profile-male-500x500.png
+    picture: assets/images/placeholder-profile-male-500x500-min.png
     twitter: a_man_goyal
   sherlock:
     name: Sherlock Holmes
