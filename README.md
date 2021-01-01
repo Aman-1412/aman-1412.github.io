@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img alt="Aman Goyal" src="assets/profile-screenshot.png" />
 </p>
 
 ## What has inside

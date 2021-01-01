@@ -3,6 +3,8 @@ title: About
 layout: page
 ---
 
+# Aman Goyal
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Data-driven programmer having 2+ years of experience in Big Data and Data Science with a key focus on deliveries. Delivered valuable insights for the FX clients at HSBC. Advanced knowledge in Machine Learning, Python and InfoSec.</p>
@@ -38,8 +40,23 @@ layout: page
 
 <h2>Projects</h2>
 
-<ul>
+<!-- <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul> -->
+<!-- <section class="list"> -->
+<ul>
+    {% for post in site.posts %}
+        {% if post.projects %}
+            <li>
+			<div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+			</li>
+        {% endif %}
+    {% endfor %}
 </ul>
+<!-- </section> -->

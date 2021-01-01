@@ -199,10 +199,10 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 
 {% highlight html %}
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube-nocookie.com/embed/DLzxrzFCyOs" frameborder="0" allowfullscreen></iframe>
 {% endhighlight %}
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube-nocookie.com/embed/DLzxrzFCyOs" frameborder="0" allowfullscreen></iframe>
 
 [1]: https://daringfireball.net/projects/markdown/
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
