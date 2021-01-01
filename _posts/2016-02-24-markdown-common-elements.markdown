@@ -11,6 +11,7 @@ star: true
 category: blog
 author: aman
 description: Markdown summary with different options
+excerpt_separator: <!--more-->
 ---
 
 ## Basic formatting
@@ -22,6 +23,8 @@ And that's how to do it.
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
 {% endhighlight %}
+
+<!--more-->
 
 ---
 
