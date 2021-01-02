@@ -40,20 +40,14 @@ layout: page
 
 <h2>Projects</h2>
 
-<!-- <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
-<!-- <section class="list"> -->
-<ul>
+<section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
-            <li>
-			<div class="item {% if post.star %}star{% endif %}"><a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"><h3 class="title">{{ post.title }}</h3></a>
+            <div class="item">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
             </div>
-			</li>
         {% endif %}
     {% endfor %}
-</ul>
-<!-- </section> -->
+</section>

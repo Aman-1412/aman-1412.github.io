@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":cookie: Indigo: Part Deux, minimalist jekyll theme"
 layout: post
 date: 2020-12-28 22:10
 tag: jekyll
@@ -7,7 +7,7 @@ image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a simple and minimalist template for Jekyll for those who like to eat cookies."
 category: project blog
 author: aman
 externalLink: false
