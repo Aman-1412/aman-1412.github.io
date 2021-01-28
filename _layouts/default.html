@@ -20,14 +20,14 @@ layout: compress
     <title>
         {% if page.title and page.title!= "Home"%}
             {{ page.title | escape }}
-          -
+          |
         {% endif %}
         {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
           Page {{ paginator.page }} of {{ paginator.total_pages }} -
         {% endif %}
         {{ site.name | escape }}
         {% if page.title == 'Home' %}
-          - {{ site.bio | escape }}
+          | {{ site.bio | escape }}
         {% endif %}
       </title>
       
