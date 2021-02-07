@@ -34,14 +34,16 @@ $ sudo apt-mark hold virtualbox-6.1
 
 And that's it!
 
-![apt-mark hold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-hold.png)
+<!-- ![apt-mark hold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-hold.png) -->
+<img src="{{ site.url }}/assets/images/2-apt-hold/apt-mark-hold.png" alt="apt-mark-hold" width="336px" height="56px" loading="lazy">
 <figcaption class="caption">apt-mark hold</figcaption>
 
 
 Now, when you run `sudo apt upgrade`, it won't ugrade your package(virtualbox in my case)   
 
 
-![sudo apt upgrade]({{ site.url }}/assets/images/2-apt-hold/virtualbox-not-upgraded.png)
+<!-- ![sudo apt upgrade]({{ site.url }}/assets/images/2-apt-hold/virtualbox-not-upgraded.png) -->
+<img src="{{ site.url }}/assets/images/2-apt-hold/virtualbox-not-upgraded.png" alt="sudo apt upgrade" width="727px" height="292px" loading="lazy">
 <figcaption class="caption">sudo apt upgrade</figcaption>
 
 
@@ -52,7 +54,8 @@ $ apt-mark showhold
 {% endhighlight %}
 
 
-![apt-mark showhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-showhold.png)
+<!-- ![apt-mark showhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-showhold.png) -->
+<img src="{{ site.url }}/assets/images/2-apt-hold/apt-mark-showhold.png" alt="apt-mark showhold" width="205px" height="57px" loading="lazy">
 <figcaption class="caption">apt-mark showhold</figcaption>
 
 
@@ -64,7 +67,8 @@ $ sudo apt-mark unhold virtualbox-6.1
 {% endhighlight %}
 
 
-![apt-mark unhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-unhold.png)
+<!-- ![apt-mark unhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-unhold.png) -->
+<img src="{{ site.url }}/assets/images/2-apt-hold/apt-mark-unhold.png" alt="apt-mark unhold" width="397px" height="147px" loading="lazy">
 <figcaption class="caption">apt-mark unhold</figcaption>
 
 
