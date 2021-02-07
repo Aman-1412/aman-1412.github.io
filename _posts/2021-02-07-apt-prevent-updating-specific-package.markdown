@@ -1,7 +1,7 @@
 ---
 title: "apt prevent updating a specific package"
 layout: post
-date: 2021-02-07 18:10
+date: 2021-02-07 13:10
 image: /assets/images/2-apt-hold/apt-package-manager.png
 headerImage: true
 tag:
