@@ -2,7 +2,7 @@
 title: "apt prevent updating a specific package"
 layout: post
 date: 2021-02-07 18:10
-image: /assets/images/apt-package-manager.png
+image: /assets/images/2-apt-hold/apt-package-manager.png
 headerImage: true
 tag:
 - linux
@@ -34,14 +34,14 @@ $ sudo apt-mark hold virtualbox-6.1
 
 And that's it!
 
-![apt-mark hold]({{ site.url }}/assets/images/apt-mark-hold.png)
+![apt-mark hold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-hold.png)
 <figcaption class="caption">apt-mark hold</figcaption>
 
 
 Now, when you run `sudo apt upgrade`, it won't ugrade your package(virtualbox in my case)   
 
 
-![sudo apt upgrade]({{ site.url }}/assets/images/virtualbox-not-upgraded.png)
+![sudo apt upgrade]({{ site.url }}/assets/images/2-apt-hold/virtualbox-not-upgraded.png)
 <figcaption class="caption">sudo apt upgrade</figcaption>
 
 
@@ -52,7 +52,7 @@ $ apt-mark showhold
 {% endhighlight %}
 
 
-![apt-mark showhold]({{ site.url }}/assets/images/apt-mark-showhold.png)
+![apt-mark showhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-showhold.png)
 <figcaption class="caption">apt-mark showhold</figcaption>
 
 
@@ -64,7 +64,7 @@ $ sudo apt-mark unhold virtualbox-6.1
 {% endhighlight %}
 
 
-![apt-mark unhold]({{ site.url }}/assets/images/apt-mark-unhold.png)
+![apt-mark unhold]({{ site.url }}/assets/images/2-apt-hold/apt-mark-unhold.png)
 <figcaption class="caption">apt-mark unhold</figcaption>
 
 
