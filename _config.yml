@@ -51,7 +51,7 @@ twitter:
   card: summary
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/-amangoyal
 # youtube: myyoutube
 # spotify: myspotify
 github: Aman-1412
@@ -161,7 +161,6 @@ exclude:
     "README.md",
     "Gemfile",
     "Gemfile.lock",
-    "FAQ.md",
     "node_modules",
     "vendor",
   ]
