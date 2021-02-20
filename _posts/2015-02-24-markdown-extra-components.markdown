@@ -12,6 +12,7 @@ category: blog
 author: aman
 description: Markdown summary with different options
 excerpt_separator: <!--more-->
+toc: true
 ---
 
 ## Summary

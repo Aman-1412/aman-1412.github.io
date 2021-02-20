@@ -17,7 +17,7 @@
             <!-- If site width is set to normal, you may choose any two share links -->
             <a
                 class="twitter" alt="share_on_twitter"
-                href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.authors[page.author].twitter }}"
+                href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.authors[page.author].twitter }}" rel="nofollow noopener" target="_blank"
             >
                 <svg class="icon icon-twitter">
                     <use xlink:href="#icon-twitter"></use></svg
@@ -26,7 +26,7 @@
 
             <a
                 class="facebook" alt="share_on_facebook"
-                href="javascript:void(0)"
+                href="javascript:void(0)" rel="nofollow noopener" target="_blank"
                 onclick="window.open('https://facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 'facebook-share-dialog', 'width=626,height=436'); return false;"
             >
                 <svg class="icon icon-facebook">

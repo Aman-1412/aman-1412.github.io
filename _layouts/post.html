@@ -21,7 +21,13 @@ layout: page
     </div>
 {% endif %}
 
-{{content}}
+{% if page.toc == true %}
+    <div>
+        <h3>Table of contents:</h3>
+        {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=4 %}
+    </div>
+{% endif %}
+{{ content }}
 
 {% if site.post-advance-links contains page.category %}
     <div class="blog-navigation">
