@@ -18,7 +18,7 @@ toc: true
 
 ## What ?
 
-It's so annoying that Valorant doesn't have all the details about an ability listed in the Agent Abilities page. They do not maintain a 'reference' page, so to say. I couldn't find an updated collection of the time/duration for all the agent abilites - neither official nor a community one. So here's one by me.
+It's so annoying that Valorant doesn't have all the details about an ability listed in the Agent Abilities page. They do not even maintain a 'reference' page, so to say. I couldn't find an updated collection of the time/duration for all the agent abilites - neither official nor a community one. So here's one by me.
 
 <!--more-->
 
