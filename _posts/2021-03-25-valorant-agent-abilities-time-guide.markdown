@@ -132,7 +132,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Self heal: 6.25/s (Precisely: 1 every 0.16 seconds); Total heal: 50hp
 4. **RUN IT BACK (Ultimate)**
     * Duration: 10s
-    * Phoenix is back to 100HP and automatic reload
+    * When it finishes, Phoenix is back to 100HP and the gun is automatically reloaded
 
 ## Raze
 
