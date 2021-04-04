@@ -24,6 +24,8 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
+**Updated for Patch 2.06**
+
 ## Astra
 
 1. **NOVA PULSE (Concussion)**
@@ -100,6 +102,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * HP: 125
     * DMG: 11/burst
 3. **NANOSWARM (Molly)**
+	* Recall cooldown: Instant during buytime (Patch 2.06)
     * Duration: 5s
     * DPS: 45/s (Friendly: 15/s)
 4. **LOCKDOWN (Ultimate)**
@@ -204,19 +207,26 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 ## Viper
 
 1. **POISON CLOUD (Smoke)**
-    * Cooldown: 6s
+    * Cooldown: ~~6s~~ Can be immediately redeployed after picking up (Patch 2.06)
+	* Decay: Instant decay of 50hp; 10/s after.
+	* Health regen starts 1.5s after leaving the poison
 2. **TOXIC SCREEN (Wall)**
+	* Decay: Instant decay of 50hp; 10/s after.
+	* Health regen starts 1.5s after leaving the poison
 3. **SNAKE BITE (Molly)**
     * Duration: 8s
     * DPS: 24/s (Friendly: 8/s) + Vulnerable
 4. **VIPER'S PIT (Ultimate)**
+	* Decay: Instant decay of 50hp; 10/s after.
+	* Health regen starts 1.5s after leaving the poison
 
 ## Yoru
 
 1. **BLINDSIDE (Flash)**
-    * Enemies flashed for 1s
+    * Enemies flashed for ~~1.1s~~ 1.5s (Patch 2.06)
 2. **GATECRASH (Teleport/TP)**
-    * Duration: 20s unless it is destroyed
+    * Duration: 30s unless it is destroyed
+	* Refreshed every 35s since it is first used (YES, you can use the 2nd Gatecrash 5s after the 1st one) (Patch 2.06)
 3. **FAKEOUT (Footsteps/Fake steps)**
     * Duration: 10s
 4. **DIMENSIONAL DRIFT (Ultimate)**
