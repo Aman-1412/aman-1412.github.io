@@ -51,7 +51,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 3. **AFTERSHOCK**
     * Duration: 2.5s
 4. **ROLLING THUNDER (Ultimate)**
-    * Lasts for 6 seconds; but who cares about the time here? Starts 8m after Breach
+    * Lasts for 6s; but who cares about the time here? Starts 8m after Breach
     * Stun duration: 5s
 
 ## Brimstone
@@ -60,7 +60,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Duration: 8s
     * Damage Per Second aka DPS: 60/s (Friendly: 20/s)
 2. **SKY SMOKE (Smoke)**
-    * Duration: 19.25 seconds
+    * Duration: 19.25s
 3. **STIM BEACON (???)**
     * Duration: 12s
     * Fire rate increase: 15%
@@ -86,10 +86,10 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Get 2 kills to get another dash
     * Pro tip: You can break Cypher trap-wires with Jett's Dash
 3. **CLOUDBURST (Smoke)**
-    * Duration: 4.5 seconds
+    * Duration: 4.5s
 4. **BLADE STORM (Ultimate/Knives)**
     * 5 Knives; Every kill restores the number of knives to 5
-    * Time between consecutive Burst Fire: 0.45 seconds (Not like it matters, you're not Korean Jett)
+    * Time between consecutive Burst Fire: 0.45s (Not like it matters, you're not Korean Jett)
     * Duration: Until all the knives are used
 
 ## Killjoy
@@ -112,7 +112,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 ## Omen
 
 1. **PARANOIA (Flash)**
-    * Enemies flashed(near-sighted) for 2.5 seconds
+    * Enemies flashed(near-sighted) for 2.5s
 2. **DARK COVER (Smoke)**
     * Smoke duration: 15s
     * Cooldown: 35s
@@ -132,7 +132,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 3. **BLAZE (Wall)**
     * Duration: 8s
     * DPS: 30/s (Friendly: 10/s)
-    * Self heal: 6.25/s (Precisely: 1 every 0.16 seconds); Total heal: 50hp
+    * Self heal: 6.25HP/s (Precisely: 1HP every 0.16s); Total heal: 50HP
 4. **RUN IT BACK (Ultimate)**
     * Duration: 10s
     * When it finishes, Phoenix is back to 100HP and the gun is automatically reloaded
@@ -157,9 +157,10 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 2. **DISMISS (Invincible / Invulnerable if EMPRESS is active)**
     * Duration: 2s
 3. **LEER (Flash)**
-    * Enemies flashed for 2.0 seconds unless destroyed
+	* HP: 100
+    * Enemies flashed for 2s unless destroyed
 4. **EMPRESS (Ultimate)**
-    * Duration: 30s. Every kill resets it back to 30 seconds (Fire rate increases by 15%)
+    * Duration: 30s. Every kill resets it back to 30s (Fire rate increases by 15%)
 
 ## Sage
 
@@ -171,7 +172,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Self heal: 60/10s
     * Cooldown: 45s
 3. **BARRIER ORB (Wall)**
-    * 400 HP for the first 3 seconds; Fortified to 800 HP after that; Lasts a total of 30s
+    * 400 HP for the first 3s; Fortified to 800 HP after that; Lasts a total of 30s
     * Range: 10m
 4. **RESURRECTION (Ultimate/Rez/Rebibe)**
 
@@ -194,8 +195,9 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Stun duration: 3s
 2. **GUIDING LIGHT (Flash)**
     * HP: 60
-    * Time until it becomes a dud: X seconds
-    * Enemies flashed for 2s -------------------Might not be very accurate-------------------
+    * Time until it becomes a dud: 2.5s
+    * Enemies flashed for 2s   ------------------ Might not be very accurate ------------------
+	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
 3. **REGROWTH(Heal)**
     * Total heal: 100hp
     * Heal: 20hp/s
@@ -226,7 +228,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Enemies flashed for ~~1.1s~~ 1.5s (Patch 2.06)
 2. **GATECRASH (Teleport/TP)**
     * Duration: 30s unless it is destroyed
-	* Refreshed every 35s since it is first used (YES, you can use the 2nd Gatecrash 5s after the 1st one) (Patch 2.06)
+	* Refreshed every 35s (YES, you can theoretically use the 2nd Gatecrash 5s after the 1st one) (Patch 2.06)
 3. **FAKEOUT (Footsteps/Fake steps)**
     * Duration: 10s
 4. **DIMENSIONAL DRIFT (Ultimate)**
