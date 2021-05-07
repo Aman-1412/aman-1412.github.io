@@ -11,7 +11,7 @@ tag:
 star: false # this turns on the highlight on the blog. 
 category: blog
 author: aman
-description: List down all the agent abilities and their timings
+description: List down all the Valorant agent abilities and their timings (time guide)
 excerpt_separator: <!--more-->
 toc: true
 ---
@@ -24,13 +24,14 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
-**Updated for Patch 2.06**
+<span class="evidence">
+Updated for **<u>Patch 2.08</u>**
+</span>
 
 ## Astra
 
 1. **NOVA PULSE (Concussion)**
     * Cooldown: 12s
-
 2. **NEBULA (Smoke)**
     * Duration: 15s
     * Cooldown: 14s
@@ -102,7 +103,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * HP: 125
     * DMG: 11/burst
 3. **NANOSWARM (Molly)**
-	* Recall cooldown: Instant during buytime (Patch 2.06)
+	* Recall cooldown: Instant during buytime 
     * Duration: 5s
     * DPS: 45/s (Friendly: 15/s)
 4. **LOCKDOWN (Ultimate)**
@@ -189,7 +190,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 
 ## Skye
 
-1. **TRAILBLAZER(Tiger/Wolf/Dog/whatever)**
+1. **TRAILBLAZER (Tiger/Wolf/Dog/whatever)**
     * HP: 100
     * Duration: 5s
     * Stun duration: 3s
@@ -198,10 +199,10 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
     * Time until it becomes a dud: 2.5s
     * Enemies flashed for 2s   ------------------ Might not be very accurate ------------------
 	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
-3. **REGROWTH(Heal)**
+3. **REGROWTH (Heal)**
     * Total heal: 100hp
     * Heal: 20hp/s
-4. **SEEKERS (Ultimate)**
+4. **SEEKERS (Ultimate/Cabbages)**
     * HP: 150
     * Duration: 15s
     * Enemies flashed(near-sighted) for 3s
@@ -209,10 +210,12 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 ## Viper
 
 1. **POISON CLOUD (Smoke)**
-    * Cooldown: ~~6s~~ Can be immediately redeployed after picking up (Patch 2.06)
+    * Cooldown: Can be immediately redeployed after picking up
+    * If active when Viper dies, Poison Cloud now remains up for an additional 2 seconds, or until Viper runs out of fuel.
 	* Decay: Instant decay of 50hp; 10/s after.
 	* Health regen starts 1.5s after leaving the poison
 2. **TOXIC SCREEN (Wall)**
+    * If active when Viper dies, Toxic Screen now remains up for an additional 2 seconds before deactivating
 	* Decay: Instant decay of 50hp; 10/s after.
 	* Health regen starts 1.5s after leaving the poison
 3. **SNAKE BITE (Molly)**
@@ -225,10 +228,10 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 ## Yoru
 
 1. **BLINDSIDE (Flash)**
-    * Enemies flashed for ~~1.1s~~ 1.5s (Patch 2.06)
+    * Enemies flashed for 1.5s 
 2. **GATECRASH (Teleport/TP)**
     * Duration: 30s unless it is destroyed
-	* Refreshed every 35s (YES, you can theoretically use the 2nd Gatecrash 5s after the 1st one) (Patch 2.06)
+	* Refreshed every 35s (YES, you can theoretically use the 2nd Gatecrash 5s after the 1st one)
 3. **FAKEOUT (Footsteps/Fake steps)**
     * Duration: 10s
 4. **DIMENSIONAL DRIFT (Ultimate)**
@@ -236,7 +239,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 
 **References:**
 
-    * https://playvalorant.com/en-us/news/game-updates/ <- golden source
+    * https://playvalorant.com/en-us/news/game-updates <- golden source
     * https://valorant.fandom.com/wiki/Agents
     * Reddit and Instagram posts
     * A couple of hours of custom games
