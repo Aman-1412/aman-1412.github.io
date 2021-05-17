@@ -219,7 +219,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 	* Decay: Instant decay of 30hp; 10hp/s after (Patch 2.09)
     * Health regen after: 1.5s
     * Health regen rate: 25hp/s
-    Pro tip: throw your smoke, go into the smoke and ready to peek an angle, and then deactivate the smoke. You get about half a second of advantage in peeking!
+    * **Pro tip:** throw your smoke, go into the smoke and  get ready to peek an angle, and then deactivate the smoke. You get about half a second of advantage in peeking!
 2. **TOXIC SCREEN (Wall)**
     * Cooldown after deactivation: `<UNKNOWN>`
     * Fuel usage: 6.67fuel/s (Precisely: 1 every 0.15s); Total fuel: 100
