@@ -179,6 +179,25 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
     * Range: 10m
 4. **RESURRECTION (Ultimate/Rez/Rebibe)**
 
+## Skye
+
+1. **TRAILBLAZER (Tiger/Wolf/Dog/whatever)**
+    * HP: 100
+    * Duration: 5s
+    * Stun duration: 3s
+2. **GUIDING LIGHT (Flash)**
+    * HP: 60
+    * Time until it becomes a dud: 2.5s
+    * Enemies flashed for: 2s   ------------------ Might not be very accurate ------------------
+	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
+3. **REGROWTH (Heal)**
+    * Total heal: 100hp
+    * Heal: 20hp/s
+4. **SEEKERS (Ultimate/Cabbages)**
+    * HP: 150
+    * Duration: 15s
+    * Enemies flashed(near-sighted) for 3s
+
 ## Sova
 
 1. **SHOCK BOLT (???)**
@@ -189,25 +208,6 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
     * Duration: 10s
 4. **HUNTER'S FURY (Ultimate)**
     * Duration: 6.5s (3 shots max)
-
-## Skye
-
-1. **TRAILBLAZER (Tiger/Wolf/Dog/whatever)**
-    * HP: 100
-    * Duration: 5s
-    * Stun duration: 3s
-2. **GUIDING LIGHT (Flash)**
-    * HP: 60
-    * Time until it becomes a dud: 2.5s
-    * Enemies flashed for 2s   ------------------ Might not be very accurate ------------------
-	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
-3. **REGROWTH (Heal)**
-    * Total heal: 100hp
-    * Heal: 20hp/s
-4. **SEEKERS (Ultimate/Cabbages)**
-    * HP: 150
-    * Duration: 15s
-    * Enemies flashed(near-sighted) for 3s
 
 ## Viper
 
