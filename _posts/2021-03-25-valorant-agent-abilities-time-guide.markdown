@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for **<u>Patch 2.08</u>**
+Updated for **<u>Patch 2.09</u>**
 </span>
 
 ## Astra
@@ -38,6 +38,7 @@ Updated for **<u>Patch 2.08</u>**
     * Pro tip: if you recall a star, you get a smoke for 1s
 3. **GRAVITY WELL (Gravity/Suck)**
     * Duration: 4s
+    * Duration of Vulnerability: <UNKNOWN>
     * Cooldown: 12s
 4. **ASTRAL FORM / COSMIC DIVIDE (Ultimate)**
     * Duration: 20s
@@ -97,6 +98,7 @@ Updated for **<u>Patch 2.08</u>**
 
 1. **ALARMBOT**
     * Recall cooldown: Instant during buytime; 7s mid-round
+    * Duration of Vulnerability: 4s
 2. **TURRET**
     * Recall cooldown: Instant during buytime; 10s mid-round
     * Destroy cooldown: 45s
@@ -210,20 +212,32 @@ Updated for **<u>Patch 2.08</u>**
 ## Viper
 
 1. **POISON CLOUD (Smoke)**
-    * Cooldown: Can be immediately redeployed after picking up
-    * If active when Viper dies, Poison Cloud now remains up for an additional 2 seconds, or until Viper runs out of fuel.
-	* Decay: Instant decay of 50hp; 10/s after.
-	* Health regen starts 1.5s after leaving the poison
+    * Cooldown (after pick-up): Can be immediately redeployed after picking up
+    * Cooldown after deactivation: `<UNKNOWN>`
+    * Fuel usage: 6.67fuel/s (Precisely: 1 every 0.15s); Total fuel: 100
+    * If active when Viper dies, Poison Cloud now remains up for an additional 2 seconds, or until Viper runs out of fuel
+	* Decay: Instant decay of 30hp; 10hp/s after (Patch 2.09)
+    * Health regen after: 1.5s
+    * Health regen rate: 25hp/s
+    Pro tip: throw your smoke, go into the smoke and ready to peek an angle, and then deactivate the smoke. You get about half a second of advantage in peeking!
 2. **TOXIC SCREEN (Wall)**
+    * Cooldown after deactivation: `<UNKNOWN>`
+    * Fuel usage: 6.67fuel/s (Precisely: 1 every 0.15s); Total fuel: 100
     * If active when Viper dies, Toxic Screen now remains up for an additional 2 seconds before deactivating
-	* Decay: Instant decay of 50hp; 10/s after.
-	* Health regen starts 1.5s after leaving the poison
+	* Decay: Instant decay of 30hp; 10hp/s after (Patch 2.09)
+    * Health regen after: 1.5s
+    * Health regen rate: 25hp/s
 3. **SNAKE BITE (Molly)**
     * Duration: 8s
+    * Duration of Vulnerability: `<UNKNOWN>`
     * DPS: 24/s (Friendly: 8/s) + Vulnerable
 4. **VIPER'S PIT (Ultimate)**
-	* Decay: Instant decay of 50hp; 10/s after.
+    * Duration (full activation): 5s
+	* Decay: Instant decay of 30hp; 10hp/s after. (Patch 2.09)
 	* Health regen starts 1.5s after leaving the poison
+    * Duration you can stay outside the pit: 15s
+    * Health regen after: 1.5s
+    * Health regen rate: 25hp/s
 
 ## Yoru
 
@@ -236,6 +250,39 @@ Updated for **<u>Patch 2.08</u>**
     * Duration: 10s
 4. **DIMENSIONAL DRIFT (Ultimate)**
     * Duration: 10s
+
+## Spike
+
+Something about the spike timings
+* Plant time: 4s
+* Defuse time: 7s
+* Half defuse: 3.5s ¯\\\_(ツ)_/¯
+* Detonation time: 45s
+* Beeps per second: 1beep/s for 0-25 (25s); 2beeps/s for 25-35 (10s); 4beeps/s for 35-40 (5s); 8beeps/s for 40-45(5s)
+
+
+Some more spike tips:
+* High pitch sound when defusing the 2nd half
+* Spike turns red when it is being defused
+* Look for the white circle going inwards. If you can see that before you started defusing, you're late. The circle appears at **6.7s**!
+
+
+## zzz Random info zzz
+
+1. Valorant server IP addresses:
+    * Mumbai:
+    <pre>
+    75.2.66.166
+    99.83.136.104</pre>
+
+    * SEA:
+    <pre>
+    43.229.65.1
+    151.106.248.1</pre>
+
+2. Error codes and how to fix them:
+    * Error code VAN -81
+    > Check if the service vgc is turned off. If so, turn it on and restart computer.
 
 **References:**
 
