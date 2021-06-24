@@ -25,13 +25,13 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-0/"> **Patch 3.0; Released on: 2021-06-22** </a>
 </span>
 
 ## Astra
-
+Stars are now inactive when placed during the buy phase until 1.4s after the barriers drop
 1. **NOVA PULSE (Concussion)**
-    * Cooldown: 12s
+    * Cooldown: 25s
 2. **NEBULA (Smoke)**
     * Duration: 15s
     * Cooldown: 14s
@@ -39,7 +39,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 3. **GRAVITY WELL (Gravity/Suck)**
     * Duration: 4s
     * Duration of Vulnerability: <UNKNOWN>
-    * Cooldown: 12s
+    * Cooldown: 25s
 4. **ASTRAL FORM / COSMIC DIVIDE (Ultimate)**
     * Duration: 20s
 
@@ -48,8 +48,9 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 1. **FLASHPOINT (Flash)**
     * Enemies flashed for 2s; ugh.
 2. **FAULTLINE (Concussion)**
-    * Time to full charge: 1.5s
-    * Stun duration: 2s
+    * Time to full charge: 1s
+    * Stun duration: 3.5s
+	* Cooldown: 40s
 3. **AFTERSHOCK**
     * Duration: 2.5s
 4. **ROLLING THUNDER (Ultimate)**
@@ -86,7 +87,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 1. **UPDRAFT**
 2. **TAILWIND (Dash)**
     * Get 2 kills to get another dash
-    * Pro tip: You can break Cypher trap-wires with Jett's Dash
+    * Pro tip: <strike>You can break Cypher trap-wires with Jett's Dash</strike> Patch 3.0 killed this
 3. **CLOUDBURST (Smoke)**
     * Duration: 4.5s
 4. **BLADE STORM (Ultimate/Knives)**
@@ -97,10 +98,10 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 ## Killjoy
 
 1. **ALARMBOT**
-    * Recall cooldown: Instant during buytime; 7s mid-round
+    * Recall cooldown: Instant during buytime; 20s mid-round
     * Duration of Vulnerability: 4s
 2. **TURRET**
-    * Recall cooldown: Instant during buytime; 10s mid-round
+    * Recall cooldown: Instant during buytime; 20s mid-round
     * Destroy cooldown: 45s
     * HP: 125
     * DMG: 11/burst
@@ -118,7 +119,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
     * Enemies flashed(near-sighted) for 2.5s
 2. **DARK COVER (Smoke)**
     * Smoke duration: 15s
-    * Cooldown: 35s
+    * Cooldown: 40s
 3. **SHROUDED STEP (Teleport/TP)**
 4. **FROM THE SHADOWS (Ultimate)**
     * Can cancel within: 2.5s
@@ -184,12 +185,13 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 1. **TRAILBLAZER (Tiger/Wolf/Dog/whatever)**
     * HP: 100
     * Duration: 5s
-    * Stun duration: 3s
+    * Stun duration: 4s
 2. **GUIDING LIGHT (Flash)**
     * HP: 60
     * Time until it becomes a dud: 2.5s
     * Enemies flashed for: 2s   ------------------ Might not be very accurate ------------------
 	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
+	* Cooldown: 40s
 3. **REGROWTH (Heal)**
     * Total heal: 100hp
     * Heal: 20hp/s
@@ -202,7 +204,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
 
 1. **SHOCK BOLT (???)**
 2. **RECON BOLT (Arrow/Dart)**
-    * Cooldown: 35s
+    * Cooldown: 40s
     * Duration: 3 pings; 1 ping every 1.5s
 3. **OWL DRONE (Drone)**
     * Duration: 10s
@@ -228,8 +230,8 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
     * Health regen after: 1.5s
     * Health regen rate: 25hp/s
 3. **SNAKE BITE (Molly)**
-    * Duration: 8s
-    * Duration of Vulnerability: `<UNKNOWN>`
+    * Duration: 6.5s
+    * Duration of Vulnerability after leaving the molly: `<UNKNOWN>`
     * DPS: 24/s (Friendly: 8/s) + Vulnerable
 4. **VIPER'S PIT (Ultimate)**
     * Duration (full activation): 5s
@@ -245,7 +247,7 @@ Updated for **<u>Patch 2.09</u> Released on: 2021-05-11**
     * Enemies flashed for 1.5s 
 2. **GATECRASH (Teleport/TP)**
     * Duration: 30s unless it is destroyed
-	* Refreshed every 35s (YES, you can theoretically use the 2nd Gatecrash 5s after the 1st one)
+	* Refreshed every 40s (YES, you can theoretically use the 2nd Gatecrash 10s after the 1st one)
 3. **FAKEOUT (Footsteps/Fake steps)**
     * Duration: 10s
 4. **DIMENSIONAL DRIFT (Ultimate)**
@@ -267,9 +269,13 @@ Some more spike tips:
 * Look for the white circle going inwards. If you can see that before you started defusing, you're late. The circle appears at **6.7s**!
 
 
+
 ## zzz Random info zzz
 
-1. Valorant server IP addresses:
+1. Tips:
+	* Press left Alt to see your allies abilities. Next time before you yell, "heal me sage, wtf are you doing!", just check if she has a heal available
+
+2. Valorant server IP addresses:
     * Mumbai:
     <pre>
     75.2.66.166
@@ -280,7 +286,7 @@ Some more spike tips:
     43.229.65.1
     151.106.248.1</pre>
 
-2. Error codes and how to fix them:
+3. Error codes and how to fix them:
     * Error code VAN -81
     > Check if the service vgc is turned off. If so, turn it on and restart computer.
 
