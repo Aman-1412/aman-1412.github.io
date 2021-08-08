@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-0/"> **Patch 3.0; Released on: 2021-06-22** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-02/"> **Patch 3.02; Released on: 2021-07-20** </a>
 </span>
 
 ## Astra
@@ -276,6 +276,7 @@ Some more spike tips:
 	* Press left Alt to see your allies abilities. Next time before you yell, "heal me sage, wtf are you doing!", just check if she has a heal available
 
 2. Valorant server IP addresses:
+	* https://support-valorant.riotgames.com/hc/en-us/articles/360047225674
     * Mumbai:
     <pre>
     75.2.66.166
