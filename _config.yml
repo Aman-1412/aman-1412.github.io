@@ -99,7 +99,7 @@ pagination:
   enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
+  per_page: 10
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need the about/blog/projects/search page, comment them out below

@@ -1,0 +1,211 @@
+---
+title: "Chess book recommendations for improvement"
+layout: post
+date: 2021-08-09 01:00
+image: /assets/images/11-chess-books/chess-books.jpg
+headerImage: true
+tag:
+- game
+- chess
+- reference
+- list-of-lists
+star: false # this turns on the highlight on the blog. 
+category: blog
+author: aman
+description: Chess book recommendations for improvement, chess books from the internet, chess learning for beginners, chess improvement for beginners
+excerpt_separator: <!--more-->
+toc: false
+---
+
+## What?
+
+This is another list of lists - list of lists of books recommended by chess players/instructors all over the internet
+
+<!--more-->
+
++ GM Daniel Naroditsky
+
+  1. Chess Strategy for Club Players by Herman Grooten
+  2. Mastering Positional Chess by Daniel Naroditsky
+  3. The Complete Manual of Positional Chess by Konstantin Sakaev & Kostantin Landa
+  4. My System by Aron Nimzowitsch
+  5. Silman's Complete Endgame Course by Jeremy Silman
+  6. How to Reassess Your Chess by Jeremy Silman
+  7. Mastering Chess Strategy by Johan Hellsten
+  8. Mastering Opening Strategy by Johan Hellsten
+  9. Mastering Endgame Strategy by Johan Hellsten
+  10. Chess Evolution 1: The Fundamentals by Artur Yusupov
+  11. Chess Evolution 2: Beyond The Basics by Artur Yusupov
+  12. Chess Evolution 3: Mastery by Artur Yusupov
+  13. Improve Your Chess Pattern Recognition by Arthur van de Oudeweetering
+
++ GM Vidit Gujarathi
+
+  1. Jacob Aagard books
+  2. Dvoretsky /Yusupov - School of future champions
+  3. Kasparov on Kasparov
+  4. Jan Markos - Under the surface
+  5. Boris Avrukh - d4 opening part 2 (only if you are playing)
+  6. Jacob Aagard - Thinking inside the box
+  7. Think like a grandmaster - Alexander kotov
+  8. Jacob Aagard - Calculation
+  9. Lev polugaevsky - Grandmaster preparation
+  10. Mark Dvoretsky - Recognising your opponents resources
+
++ NM Sahil Tickoo (Chess Assist)
+
+  1. Bobby Fischer Teaches Chess
+  2. Winning Chess Tactics
+  3. My System
+  4. Bobby Fischer 60 Memorable Games
+  5. 100 Endgames you must know
+  6. Positional Chess Handbook
+  7. Pump up your Rating
+  8. Fundamental Chess Endings
+  9. Game Changer
+  10. Mastering Chess Strategy
+  11. The Magic of Mikhail Tal
+  12. Our Website Courses
+
++ Chess Dojo
+
+  1. Tal-Botvinnik 1960
+  2. Sixty Memorable Games
+  3. Zurich 1953
+  4. Test of Time
+  5. 100 games
+  6. My System
+  7. Best Games
+  8. Seven Deadly Chess Sins
+  9. Road to Chess Improvement
+  10. Art of Attack
+
++ IM Kostya Kavutskiy
+
+  0. Overrated books
+      + Margulies, Mosenfelder, Fischer - Bobby Fischer Teaches Chess
+      + Nimzowitsch - My System
+      + Silman - How to Reassess your Chess
+      + Dvoretsky - Dvoretsky's Endgame Manual
+      + Kotov - Think Like A Grandmaster
+
+  1. Chess Fundamentals
+      + Ilya Mazelis - The Soviet Chess Primer (0 - 1800)
+      + Irving Chernev - Logical Chess Move by Move (0 - 1800)
+      + Irving Chernev - The Most Instructive Games of Chess Ever Played (1000 - 1800)
+      + John Nunn - Understanding Chess Move by Move (1500 - 2000)
+      + John Watson - Secrets of Modern Chess Strategy (1600 - 2000)
+      + R.B. Ramesh - Fundamental Chess: Logical Decision Making (1400-2200)
+
+  2. Tactics & Calculation
+
+      + Susan Polgar - Learn Chess The Right Way (5 books, 0 - 1400)
+      + Alburt & Palatnik - Tactics for the Tournament Player (1200 - 2000)
+      + Vladimir Vuckovic - The Art of Attack (1400 - 2200)
+      + Spielmann & Muller - The Art of Sacrifice in Chess (1400 - 2200)
+      + Maxim Blokh - Combinative Motifs (1400 - 2200)
+      + Smith & Tikkanen - The Woodpecker Method (1600 - 2400)
+      + Jacob Aagaard - Excelling at Chess Calculation (1800 - 2200)
+      + Volokitin & Grabinsky - Perfect Your Chess (2200+)
+      + Chessking software/apps (PC, Apple, Android) - Tactics For Beginners, CT-Art (1400-1600), and CT-Art 4.0 to name a few but there are many others. 
+
+  3. Middlegame Play
+      + Jeremy Silman - Reassess Your Chess, 4th edition (1200 - 1800)
+      + Johan Hellsten - Mastering Chess Strategy (1400 - 2200)
+      + Mauricio Flores Rios - Chess Structures: A Grandmaster Guide (1600 - 2200)
+      + Alexey Suetin - A Contemporary Approach to the MIddlegame (1800 - 2200)
+      + Israel Gelfer - Positional Chess Handbook (1800 - 2200)
+      + Landa & Sakaev - The Complete Manual of Positional Chess 1 & 2 (2000 - 2400)
+      + Boris Gelfand - Positional Decision Making in Chess & Dynamic Decision Making in Chess (2000+)
+
+  4. Endgame Play
+      + Jeremy Silman - Complete Endgame Course (0 - 2200)
+      + Mikhail Shereshevsky - Endgame Strategy (1200 - 2200)
+      + Johan Hellsten - Mastering Endgame Strategy (1400 - 2200)
+      + Jesus de la Villa - 100 Endgames You Must Know (1200 - 2400)
+      + Mark Dvoretsky - Dvoretsky's Endgame Manual (2200+)
+
+  5. Openings
+      + Quality Chess - GM Repertoire series (1800+)
+      + Chess24/Chessbase/Chessable courses (level greatly varies)
+
+  6. Series of Books - (for players who want a structured training program)
+      + Yasser Seirawan - Winning Chess (1000-1600)
+      + Artur Yusupov - Build Up Your Chess/Boost Your Chess/Chess Evolution (1400-2200)
+      + Jacob Aagaard - Excelling at Chess (1800-2200)
+      + Mark Dvoretsky - School of Chess Excellence & School for Future Champions (2100+)
+      + Jacob Aagaard - Grandmaster Preparation (2200+)
+
+  7. Game Collections (suitable for all levels with the exception of Kasparov)
+      + Mikhail Tal - Life and Games of Mikhail Tal
+      + Bobby Fischer - My 60 Memorable Games
+      + Alexei Shirov - Fire on Board 1 & 2
+      + Vladimir Kramnik - My Life and Games
+      + Garry Kasparov - My Great Predecessors I-V & Kasparov on Kasparov 1-3 (1800+)
+      + Simen Agdestein - Wonderboy Magnus Carlsen
+      + Alekhine - My Best Games (Not rated)
+      + Capablanca - Endgames (Not rated)
+      + Rubinstein - Life and Games (Not rated)
+      + Bronstein - Zurich 1953 (Not rated)
+      + Botvinnik - One Hundred Selected Games (Not rated)
+      + Karpov - Karpov's Strategic Wins (Not rated)
+
++ IM Eric Rosen
+
+  0. Kids & Beginners
+      + Al Woolum - The Chess Tactics Workbook
+      + Jeff Coakley - Winning Chess Strategy for Kids
+      + Murray Chandler - How to Beat Your Dad at Chess (Gambit Chess)
+
+  1. Middlegame & Strategy
+      + How to Reassess Your Chess: Chess Mastery Through Chess Imbalances by Jeremy Silman
+      + Positional Chess Handbook: 495 Instructive Positions from Grandmaster Games (Dover Chess) by Israel Gelfer
+
+  2. Game Collections
+      + The Mammoth Book of the World's Greatest Chess Games: New edn (Mammoth Books) by John Nunn
+
+  3. Tactics & Calculation
+      + Forcing Chess Moves: The Key to Better Calculation by Charles Hertan
+      + Find the Checkmate (Batsford Chess) by Gary Lane
+      + Sharpen Your Tactics: 1125 Brilliant Sacrifices, Combinations, and Studies by Anatoly Lein and Boris Archangelsky
+      + Laszlo Polgar - Chess: 5334 Problems, Combinations and Games
+
+  4. Endgame
+      + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess Player
+      + Silman's Complete Endgame Course: From Beginner To Master by Jeremy Silman
+
++ Reddit r/chess - <https://www.reddit.com/r/chess/wiki/books>
+
++ [Shivam Yadav(shivamnimzo)](https://twitter.com/Shivamnimzo)
+
+  1. Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy 
+  2. Susan Polgar & Paul Truong - Chess Tactics for Champions: A step-by-step guide to using tactics and combinations the Polgar way
+  3. Jeremy Silman - The Amateur's Mind: Turning Chess Misconceptions Into Chess Mastery
+  4. Jeremy Silman - How to Reassess Your Chess
+  5. Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas
+
++ Aman Goyal
+  0. Read later
+      + haven't sorted my mind on this yet. I'm thinking of starting with puzzle books
+      + Laszlo Polgar - Chess: 5334 Problems, Combinations and Games
+      + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess Player
+
+  1. Currently reading
+      + Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas - (Check out my lichess study on this - ~will add the link here in future~)
+      + Susan Polgar & Paul Truong - Chess Tactics for Champions: A step-by-step guide to using tactics and combinations the Polgar way
+      + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
+
+  2. On hold
+        + Murray Chandler - How to Beat Your Dad at Chess (Gambit Chess)
+        + Jose Capablanca - Chess Fundamentals
+  
+  3. Finished reading
+      + lol
+
+I'll keep this list updated with more lists that I find online.
+
+Read more on my journey of chess improvement [here](/my-chess-journey/)
+
+Future blog on my review of the books I've read -
+
+_That's all folks!_
