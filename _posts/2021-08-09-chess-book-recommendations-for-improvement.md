@@ -98,7 +98,6 @@ This is another list of lists - list of lists of books recommended by chess play
       + R.B. Ramesh - Fundamental Chess: Logical Decision Making (1400-2200)
 
   2. Tactics & Calculation
-
       + Susan Polgar - Learn Chess The Right Way (5 books, 0 - 1400)
       + Alburt & Palatnik - Tactics for the Tournament Player (1200 - 2000)
       + Vladimir Vuckovic - The Art of Attack (1400 - 2200)

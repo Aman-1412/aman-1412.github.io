@@ -1,7 +1,7 @@
 ---
 title: "Surf history dumps - Chess"
 layout: post
-date: 2021-05-16 22:30
+date: 2021-05-14 22:30
 image: /assets/images/6-surf-history-chess/lichess-box-1024.png
 headerImage: true
 tag:
