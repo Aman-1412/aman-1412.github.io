@@ -67,7 +67,7 @@ This is another list of lists - list of lists of books recommended by chess play
   11. The Magic of Mikhail Tal
   12. Our Website Courses
 
-+ Chess Dojo
++ Chess Dojo (Classics ranked by Jesse, Kostya and David; 1 book per author)
 
   1. Tal-Botvinnik 1960
   2. Sixty Memorable Games
@@ -173,11 +173,31 @@ This is another list of lists - list of lists of books recommended by chess play
       + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess Player
       + Silman's Complete Endgame Course: From Beginner To Master by Jeremy Silman
 
-+ Reddit r/chess - <https://www.reddit.com/r/chess/wiki/books>
++ Annotated Chess Games Collections - Recommendations
+
+  1. Robert James Fischer – My 60 Memorable Chess Games
+        > A famous game collection by the great American. Noteworthy because he includes a couple of his own losses. The annotations are of the highest quality and very objective.
+
+  2. Mikhail Tal – The Life and Games of Mikhail Tal
+        > Tal was not only an entertaining player, but also a very talented and witty writer. Throughout this book, you will enjoy both on-the-board events and the stories behind.
+
+  3. Alexander Alekhine – My Best Games of Chess, 1908 – 1937
+        > Alexander Alekhine was often cited by Kasparov, but also by Fischer as a player who has had the greatest influence on their own playing style. And indeed, Alekhine is known for his "difficult", dynamic chess, which made his games incredibly interesting and attractive. Similarly as with Fischer's My 60 Memorable Games, the big plus for My Best Games of Chess is the absence of computer-generated analysis. The reading of the book "flows" and the number of diagrams makes it easy to follow the "human variations" given by Alekhine.
+
+  4. Irving Chernev – Logical Chess, Move By Move, Every Move Explained and The Most Instructive Games Of Chess Ever Played
+        > Irving Chernev was not an outstandingly strong player, but he was an outstanding chess writer. In these books, he adopts the move-by-move approach – he guides the reader through a number of famous games with simple and clear annotations after every move. This approach is especially valuable for beginners.
+
+  5. David Bronstein – Zürich International Chess Tournament 1953
+        > David Bronstein was the World Championship challenger in 1951. In this historic book, he takes us through the Candidates Tournament in 1953. He annotates every single game played in this dramatic event.
+
+  6. Garry Kasparov – On My Great Predecessors Series
+        > Last, but not least, Kasparov's epochal series, devoted to entire chess history. The reason we have put it in the last place is its complexity – it is definitely not suited for beginners. But we firmly believe every chess player should read these books at least once in his life
+
++ Reddit r/chess' book recommendations - <https://www.reddit.com/r/chess/wiki/books>
 
 + [Shivam Yadav(shivamnimzo)](https://twitter.com/Shivamnimzo)
 
-  1. Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy 
+  1. Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
   2. Susan Polgar & Paul Truong - Chess Tactics for Champions: A step-by-step guide to using tactics and combinations the Polgar way
   3. Jeremy Silman - The Amateur's Mind: Turning Chess Misconceptions Into Chess Mastery
   4. Jeremy Silman - How to Reassess Your Chess
