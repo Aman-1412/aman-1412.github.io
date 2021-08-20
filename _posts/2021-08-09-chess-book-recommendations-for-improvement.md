@@ -193,6 +193,28 @@ This is another list of lists - list of lists of books recommended by chess play
   6. Garry Kasparov – On My Great Predecessors Series
         > Last, but not least, Kasparov's epochal series, devoted to entire chess history. The reason we have put it in the last place is its complexity – it is definitely not suited for beginners. But we firmly believe every chess player should read these books at least once in his life
 
+Adult chess improver:
+  + Recommended books:
+    1. Lev Alburt, “Chess Training Pocket Book: 300 Most Important Positions" - https://amzn.to/2E8nAJe
+    2. Lev Alburt, "Chess Training Pocket Book II: 320 Key Positions for players of all levels” - https://amzn.to/3j44XVp
+    3. John Nunn, Learn Chess Tactics
+    4. László Polgár - Chess: 5334 Problems, Combinations and Games
+    5. Susan Polgár - Chess Tactics for Champions
+    6. Axel Smith & Hans Tikkanen - The Woodpecker Method
+    7. Michael De La Maza - Rapid Chess Improvement
+    8. Emmanuel Neiman - Tune Your Chess Tactics Antenna
+
+  + Recommended chessable courses for pattern recognition:
+    1. Common chess patterns
+    2. "... on the Attack" courses from AlanB
+    3. Tactics Time 1
+  
+  + Recommended chessable courses for advanced tactical training:
+    1. Tune Your Chess Tactics Antenna
+    2. The Woodpecker Method
+    3. 1001 Chess Exercises for Beginners
+    4. 1001 Chess Exercises For Club Players
+
 + Reddit r/chess' book recommendations - <https://www.reddit.com/r/chess/wiki/books>
 
 + [Shivam Yadav(shivamnimzo)](https://twitter.com/Shivamnimzo)
