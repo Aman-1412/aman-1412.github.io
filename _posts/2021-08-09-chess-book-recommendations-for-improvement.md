@@ -193,10 +193,10 @@ This is another list of lists - list of lists of books recommended by chess play
   6. Garry Kasparov – On My Great Predecessors Series
         > Last, but not least, Kasparov's epochal series, devoted to entire chess history. The reason we have put it in the last place is its complexity – it is definitely not suited for beginners. But we firmly believe every chess player should read these books at least once in his life
 
-Adult chess improver:
++ Adult chess improver:
   + Recommended books:
-    1. Lev Alburt, “Chess Training Pocket Book: 300 Most Important Positions" - https://amzn.to/2E8nAJe
-    2. Lev Alburt, "Chess Training Pocket Book II: 320 Key Positions for players of all levels” - https://amzn.to/3j44XVp
+    1. Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions
+    2. Lev Alburt - Chess Training Pocket Book II: 320 Key Positions for players of all levels
     3. John Nunn, Learn Chess Tactics
     4. László Polgár - Chess: 5334 Problems, Combinations and Games
     5. Susan Polgár - Chess Tactics for Champions
@@ -224,21 +224,23 @@ Adult chess improver:
   3. Jeremy Silman - The Amateur's Mind: Turning Chess Misconceptions Into Chess Mastery
   4. Jeremy Silman - How to Reassess Your Chess
   5. Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas
+  6. Yasser Seirawan & Jeremy Silman - Winning Chess Strategies
 
 + Aman Goyal
   0. Read later
-      + haven't sorted my mind on this yet. I'm thinking of starting with puzzle books
-      + Laszlo Polgar - Chess: 5334 Problems, Combinations and Games
-      + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess Player
+      + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
+      + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess t
+      + I'm still exploring...however I'm complacent with where I'm at. I don't want the information OD.
 
   1. Currently reading
-      + Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas - (Check out my lichess study on this - ~will add the link here in future~)
       + Susan Polgar & Paul Truong - Chess Tactics for Champions: A step-by-step guide to using tactics and combinations the Polgar way
-      + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
+      + Yasser Seirawan & Jeremy Silman - Winning Chess Strategies
 
   2. On hold
+        + Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas - (Check out my lichess study on this - ~will add the link here in future~)
         + Murray Chandler - How to Beat Your Dad at Chess (Gambit Chess)
         + Jose Capablanca - Chess Fundamentals
+        + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
   
   3. Finished reading
       + lol
