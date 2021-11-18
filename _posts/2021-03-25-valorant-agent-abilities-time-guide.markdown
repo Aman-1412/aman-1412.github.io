@@ -286,7 +286,6 @@ Some more spike tips:
 * Look for the white circle going inwards. If you can see that before you started defusing, you're late. The circle appears at **6.7s**!
 
 
-
 ## zzz Random info zzz
 
 1. Tips:
