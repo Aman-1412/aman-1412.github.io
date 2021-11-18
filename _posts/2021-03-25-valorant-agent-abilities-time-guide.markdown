@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-02/"> **Patch 3.02; Released on: 2021-07-20** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-10/"> **Patch 3.10; Released on: 2021-11-16** </a>
 </span>
 
 ## Astra
@@ -70,6 +70,21 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 4. **ORBITAL STRIKE (Ultimate)**
     * Duration: 2s + 3s
 
+## Chamber
+
+1. **HEADHUNTER (Deagle)**
+    * Scoped deagle/sheriff
+    * Duration: 8 bullets max (Each bullet costs 100 creds)
+    * Damage: 159 Head, 55 Body, 46 Legs
+2. **RENDEZVOUS (TP)**
+    * Destroy cooldown: 20s
+3. **TRADEMARK (Bot?)**
+    * Duration: 9.5s
+4. **TOUR DE FORCE (Awp)**
+    * Sniper that slows nearby enemies and one shots even legs.
+    * Duration: 5 bullets max
+    * Slow duration: 9.5s
+
 ## Cypher
 
 1. **CYBER CAGE (Smoke)**
@@ -92,7 +107,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 4.5s
 4. **BLADE STORM (Ultimate/Knives)**
     * 5 Knives; Every kill restores the number of knives to 5
-    * Time between consecutive Burst Fire: 0.45s (Not like it matters, you're not Korean Jett)
+    * <strike>Time between consecutive Burst Fire: 0.45s (Not like it matters, you're not Korean Jett)</strike> Patch 3.06 killed this. Burst fire uses up all knives and no knives are restored upon a kill
     * Duration: Until all the knives are used
 
 ## Killjoy
@@ -104,7 +119,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Recall cooldown: Instant during buytime; 20s mid-round
     * Destroy cooldown: 45s
     * HP: 125
-    * DMG: 11/burst
+    * DMG: 11/burst and slows the enemy by 29.5%
 3. **NANOSWARM (Molly)**
 	* Recall cooldown: Instant during buytime 
     * Duration: 5s
@@ -145,12 +160,14 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 
 1. **BLAST PACK (Satchel)**
     * Duration: 5s
-    * Damage to objects: 600
+    * Damage to objects: 600 (including sage walls)
 2. **PAINT SHELLS (Nade)**
     * Duration: 2s + sub-munitions explode after dropping on the ground
     * Get 2 kills to get another nade
 3. **BOOM BOT (bomb buddy?)**
     * Duration: 10s
+    * Max damage: 80
+    * Min damage: 30
 4. **SHOWSTOPPER (Ultimate)**
     * Duration: 10s; Equip Time: 1.4s
 
@@ -273,7 +290,8 @@ Some more spike tips:
 ## zzz Random info zzz
 
 1. Tips:
-	* Press left Alt to see your allies abilities. Next time before you yell, "heal me sage, wtf are you doing!", just check if she has a heal available
+	* Press left Alt to see your allies abilities. Next time before you yell, "heal me sage, wtf are you doing!", just calmly check if she has a heal available before going _cyka blyat_.
+    * Valorant likes to randomly erase your settings after game updates. Screenshot them so you don't lose them. I've lost mine 4 times already.
 
 2. Valorant server IP addresses:
 	* https://support-valorant.riotgames.com/hc/en-us/articles/360047225674
@@ -296,6 +314,6 @@ Some more spike tips:
     * https://playvalorant.com/en-us/news/game-updates <- golden source
     * https://valorant.fandom.com/wiki/Agents
     * Reddit and Instagram posts
-    * A couple of hours of custom games
+    * A few hours of custom games
 
 PS: It's your choice if you want to _Trust_ it!

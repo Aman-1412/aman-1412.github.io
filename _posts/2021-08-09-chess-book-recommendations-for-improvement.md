@@ -229,18 +229,18 @@ This is another list of lists - list of lists of books recommended by chess play
 + Aman Goyal
   0. Read later
       + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
-      + Jesus De La Villa - 100 Endgames You Must Know: Vital Lessons for Every Chess t
+      + Vladimir Vukovic - Art of Attack In Chess
+      + Yasser Seirawan & Jeremy Silman - Winning Chess Strategies
+      + Jesus De La Villa - 00 Endgames You Must Know: Vital Lessons for Every Chess Player
       + I'm still exploring...however I'm complacent with where I'm at. I don't want the information OD.
 
   1. Currently reading
       + Susan Polgar & Paul Truong - Chess Tactics for Champions: A step-by-step guide to using tactics and combinations the Polgar way
-      + Yasser Seirawan & Jeremy Silman - Winning Chess Strategies
+      + Murray Chandler - How to Beat Your Dad at Chess (Gambit Chess)
 
   2. On hold
         + Lev Alburt - Chess Training Pocket Book: 300 Most Important Positions and Ideas - (Check out my lichess study on this - ~will add the link here in future~)
-        + Murray Chandler - How to Beat Your Dad at Chess (Gambit Chess)
         + Jose Capablanca - Chess Fundamentals
-        + Ray Cheng - Practical Chess Exercises: 600 Lessons from Tactics to Strategy
   
   3. Finished reading
       + lol
