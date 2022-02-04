@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-10/"> **Patch 3.10; Released on: 2021-11-16** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-02/"> **Patch 4.02; Released on: 2022-02-01** </a>
 </span>
 
 ## Astra
@@ -74,12 +74,12 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 
 1. **HEADHUNTER (Deagle)**
     * Scoped deagle/sheriff
-    * Duration: 8 bullets max (Each bullet costs 100 creds)
+    * Duration: 8 bullets max; 4 in Spike Rush (Each bullet costs 100 creds)
     * Damage: 159 Head, 55 Body, 46 Legs
 2. **RENDEZVOUS (TP)**
     * Destroy cooldown: 20s
 3. **TRADEMARK (Bot?)**
-    * Duration: 9.5s
+    * Slow duration: 9.5s
 4. **TOUR DE FORCE (Awp)**
     * Sniper that slows nearby enemies and one shots even legs.
     * Duration: 5 bullets max
@@ -127,6 +127,29 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 4. **LOCKDOWN (Ultimate)**
     * Lockdown activated in: 15s
     * Detain Duration: 8s
+
+## Neon
+
+1. **RELAY BOLT (Stun)**
+    * Duration of stun: 3s
+    * Pro tip: The stuns fall down, so you can get some amazing lineups with these. Search on youtube/reddit for Neon lineups
+2. **HIGH GEAR (Sprint)**
+    * Consumes stamina
+    * Slide: Right Click to Slide
+    * Duration: 15s
+    * Duration to restore stamina bar from 0-100: 60s
+    * Pro tip: You can pick up guns while sliding
+    * Pro tip 2: Shift Sprint is stupid. You don't walk faster and you keep draining stamina. Don't do it.
+    * Pro tip 3: <a href="https://old.reddit.com/r/VALORANT/comments/s2armo/neon_examining_and_explaining_niche_slide_tech_a/"> The real mvp who examined the slide mechanics in detail </a>
+    * Get 2 kills to get another Slide
+3. **FAST LANE (Walls)**
+    * Duration: 6s
+    * DPS: 45/s (Friendly: 15/s)
+    * DPS: 30/s (Friendly: 10/s)
+4. **OVERDRIVE (Ultimate)**
+    * Duration: 20s. Every kill fills up 1 bar of stamina
+    * Damage: 22 per bullet
+    * Pro tip: You need 40 bullets? to break the sage wall - it's super quick
 
 ## Omen
 
@@ -181,7 +204,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 	* HP: 100
     * Enemies flashed for 2s unless destroyed
 4. **EMPRESS (Ultimate)**
-    * Duration: 30s. Every kill resets it back to 30s (Fire rate increases by 15%)
+    * Duration: 30s. Every kill resets the duration (Fire rate increases by 15%)
 
 ## Sage
 
@@ -307,6 +330,9 @@ Some more spike tips:
 3. Error codes and how to fix them:
     * Error code VAN -81
     > Check if the service vgc is turned off. If so, turn it on and restart computer.
+
+4. Agent Trivia:
+    * Agents and their real names with sources - <a href="https://old.reddit.com/r/VALORANT/comments/rz1501/agents_discussion_megathread/hs00rqp/">Reddit comment</a>
 
 **References:**
 
