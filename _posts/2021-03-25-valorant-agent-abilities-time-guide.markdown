@@ -25,21 +25,21 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-02/"> **Patch 4.02; Released on: 2022-02-01** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-04/"> **Patch 4.04; Released on: 2022-03-01** </a>
 </span>
 
 ## Astra
-Stars are now inactive when placed during the buy phase until 1.4s after the barriers drop
+Stars are now inactive when placed during the buy phase until 1.4s after the barriers drop. Total stars: 4. Retrieval cooldown: 25s
 1. **NOVA PULSE (Concussion)**
-    * Cooldown: 25s
+    * Cooldown: 45s
 2. **NEBULA (Smoke)**
     * Duration: 15s
-    * Cooldown: 14s
+    * Cooldown: 25s
     * Pro tip: if you recall a star, you get a smoke for 1s
 3. **GRAVITY WELL (Gravity/Suck)**
     * Duration: 4s
     * Duration of Vulnerability: <UNKNOWN>
-    * Cooldown: 25s
+    * Cooldown: 45s
 4. **ASTRAL FORM / COSMIC DIVIDE (Ultimate)**
     * Duration: 20s
 
@@ -63,6 +63,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 8s
     * Damage Per Second aka DPS: 60/s (Friendly: 20/s)
 2. **SKY SMOKE (Smoke)**
+    * Deployment time: 1s
     * Duration: 19.25s
 3. **STIM BEACON (???)**
     * Duration: 12s
@@ -157,8 +158,10 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Enemies flashed(near-sighted) for 2.5s
 2. **DARK COVER (Smoke)**
     * Smoke duration: 15s
-    * Cooldown: 40s
+    * Cooldown: 30s
+    * Smoke projectile speed: <strike>4000</strike> **<strike>2800</strike>** **6400**
 3. **SHROUDED STEP (Teleport/TP)**
+    * Pre-teleport delay: 0.7s
 4. **FROM THE SHADOWS (Ultimate)**
     * Can cancel within: 2.5s
 
@@ -255,22 +258,22 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 
 1. **POISON CLOUD (Smoke)**
     * Cooldown (after pick-up): Can be immediately redeployed after picking up
-    * Cooldown after deactivation: `<UNKNOWN>`
+    * Cooldown after deactivation: 8s
     * Fuel usage: 6.67fuel/s (Precisely: 1 every 0.15s); Total fuel: 100
     * If active when Viper dies, Poison Cloud now remains up for an additional 2 seconds, or until Viper runs out of fuel
 	* Decay: Instant decay of 30hp; 10hp/s after (Patch 2.09)
     * Health regen after: 1.5s
     * Health regen rate: 25hp/s
-    * **Pro tip:** throw your smoke, go into the smoke and  get ready to peek an angle, and then deactivate the smoke. You get about half a second of advantage in peeking!
+    * **Pro tip:** throw your smoke, go into the smoke, crouch and get ready to peek an angle, and then deactivate the smoke. You get about half a second of advantage in peeking!
 2. **TOXIC SCREEN (Wall)**
-    * Cooldown after deactivation: `<UNKNOWN>`
+    * Cooldown after deactivation: 8s
     * Fuel usage: 6.67fuel/s (Precisely: 1 every 0.15s); Total fuel: 100
     * If active when Viper dies, Toxic Screen now remains up for an additional 2 seconds before deactivating
 	* Decay: Instant decay of 30hp; 10hp/s after (Patch 2.09)
     * Health regen after: 1.5s
     * Health regen rate: 25hp/s
 3. **SNAKE BITE (Molly)**
-    * Duration: 6.5s
+    * Duration: 5.5s
     * Duration of Vulnerability after leaving the molly: `<UNKNOWN>`
     * DPS: 24/s (Friendly: 8/s) + Vulnerable
 4. **VIPER'S PIT (Ultimate)**
@@ -286,12 +289,14 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 1. **BLINDSIDE (Flash)**
     * Enemies flashed for 1.5s 
 2. **GATECRASH (Teleport/TP)**
+    * Charges: 2
+    * Get 2 kills to get another Gatecrash
     * Duration: 30s unless it is destroyed
-	* Refreshed every 40s (YES, you can theoretically use the 2nd Gatecrash 10s after the 1st one)
-3. **FAKEOUT (Footsteps/Fake steps)**
+3. **FAKEOUT (Footsteps/Fake steps/Decoy)**
     * Duration: 10s
+    * Decoy HP: 150
 4. **DIMENSIONAL DRIFT (Ultimate)**
-    * Duration: 10s
+    * Duration: 8s
 
 ## Spike
 
