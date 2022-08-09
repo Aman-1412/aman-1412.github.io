@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-04/"> **Patch 4.04; Released on: 2022-03-01** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-03/"> **Patch 5.03; Released on: 2022-09-08** </a>
 </span>
 
 ## Astra
@@ -65,9 +65,11 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 2. **SKY SMOKE (Smoke)**
     * Deployment time: 1s
     * Duration: 19.25s
+    * Smoke deploy radius: 5500
 3. **STIM BEACON (???)**
     * Duration: 12s
     * Fire rate increase: 15%
+    * Movement speed increase: 15%
 4. **ORBITAL STRIKE (Ultimate)**
     * Duration: 2s + 3s
 
@@ -75,16 +77,19 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 
 1. **HEADHUNTER (Deagle)**
     * Scoped deagle/sheriff
-    * Duration: 8 bullets max; 4 in Spike Rush (Each bullet costs 100 creds)
+    * Duration: 8 bullets max; 4 in Spike Rush (Each bullet costs 150 creds)
     * Damage: 159 Head, 55 Body, 46 Legs
 2. **RENDEZVOUS (TP)**
-    * Destroy cooldown: 20s
+    * Recall cooldown: 30s
+    * Base cooldown: 30s
+    * Destroy cooldown: 45s
+    * Diameter of the circle: 15m
 3. **TRADEMARK (Bot?)**
-    * Slow duration: 9.5s
+    * Slow duration: 6s
 4. **TOUR DE FORCE (Awp)**
-    * Sniper that slows nearby enemies and one shots even legs.
+    * Sniper that slows nearby enemies <strike>and one shots even legs.</strike> Patch 5.03 killed this. Leg damage: 0.85x
     * Duration: 5 bullets max
-    * Slow duration: 9.5s
+    * Slow duration: 6s
 
 ## Cypher
 
@@ -98,10 +103,33 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Recall cooldown: Instant
 4. **NEURAL THEFT (Ultimate)**
 
+## Fade
+
+1. **Seize (???)**
+    * Radius: <UNKNOWN>
+    * Duration: Until it hits the ground ; MB1 to drop it earlier
+    * Deafens and decays by 75hp (restored over 5s)
+    * Duration: 4.5 s
+2. **Haunt (Recon)**
+    * Duration: 2s ; MB1 to drop it earlier
+    * Trail duration: 12s
+    * Cooldown: 40s
+3. **Prowler (Dog)**
+    * Duration: 3s
+    * Blind duration: 3.5s
+    * Hold MB1 to steer it
+    * Will chase the enemies/trail
+4. **Nightfall (Ultimate)**
+    * Trail duration: 12s
+    * Deafens and decays by 75hp (restored over 12s)
+
+
+
 ## Jett
 
 1. **UPDRAFT**
 2. **TAILWIND (Dash)**
+    * After .75 second delay, activates a 12-second window where she’s able to dash
     * Get 2 kills to get another dash
     * Pro tip: <strike>You can break Cypher trap-wires with Jett's Dash</strike> Patch 3.0 killed this
 3. **CLOUDBURST (Smoke)**
@@ -109,7 +137,28 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 4. **BLADE STORM (Ultimate/Knives)**
     * 5 Knives; Every kill restores the number of knives to 5
     * <strike>Time between consecutive Burst Fire: 0.45s (Not like it matters, you're not Korean Jett)</strike> Patch 3.06 killed this. Burst fire uses up all knives and no knives are restored upon a kill
+    * Base damage: 
+    * Leg damage: 0.85x
     * Duration: Until all the knives are used
+
+## KAY/O
+
+1. **FLASH/drive**
+    * Enemies flashed for 2s
+2. **ZERO/point (Knife)**
+    * Suppress duration: 8s
+    * Cooldown: 40s
+3. **FRAG/ment (Molly)**
+    * Duration: 4s
+    * Diameter: 8m
+4. **NULL/cmd (Ultimate)**
+    * Duration: 12s
+    * Suppression duration per pulse: 4s
+    * +15% Fire rate
+    * KAY/O HP if killed while Ultimate is active: 850
+    * Can be revived within 15s
+    * Revive duration: 4.5s
+    * Enemies hear a short audio cue when the revive has started
 
 ## Killjoy
 
@@ -133,23 +182,28 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 
 1. **RELAY BOLT (Stun)**
     * Duration of stun: 3s
+    * Radius of the stun: 20m
     * Pro tip: The stuns fall down, so you can get some amazing lineups with these. Search on youtube/reddit for Neon lineups
 2. **HIGH GEAR (Sprint)**
-    * Consumes stamina
+    * Consumes energy
     * Slide: Right Click to Slide
-    * Duration: 15s
-    * Duration to restore stamina bar from 0-100: 60s
+    * Duration: 10s
+    * Duration to restore energy bar from 0-100: 60s
     * Pro tip: You can pick up guns while sliding
-    * Pro tip 2: Shift Sprint is stupid. You don't walk faster and you keep draining stamina. Don't do it.
+    * Pro tip 2: Shift Sprint is stupid. You don't walk faster and you keep draining energy. Don't do it.
     * Pro tip 3: <a href="https://old.reddit.com/r/VALORANT/comments/s2armo/neon_examining_and_explaining_niche_slide_tech_a/"> The real mvp who examined the slide mechanics in detail </a>
+    * Pro tip 4: Patch 4.08 made a lot of changes to the sprint making it easier and more versatile to use
     * Get 2 kills to get another Slide
 3. **FAST LANE (Walls)**
     * Duration: 6s
     * DPS: 45/s (Friendly: 15/s)
     * DPS: 30/s (Friendly: 10/s)
+    * Patch 4.08 removed Wall damage
 4. **OVERDRIVE (Ultimate)**
-    * Duration: 20s. Every kill fills up 1 bar of stamina
-    * Damage: 22 per bullet
+    * Duration: 20s. Every kill fills up 4 bars of energy
+    * Base damage: 18 per bullet
+    * Head damage: 3x
+    * Leg damage: 0.85x
     * Pro tip: You need 40 bullets? to break the sage wall - it's super quick
 
 ## Omen
@@ -168,7 +222,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 ## Phoenix
 
 1. **CURVEBALL (Flash)**
-    * Enemies flashed for 1.1s
+    * Enemies flashed for 1.5s
 2. **HOT HANDS (Molly)**
     * Duration: 4s
     * DPS: 60/s (Friendly: 20/s)
@@ -246,11 +300,13 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 ## Sova
 
 1. **SHOCK BOLT (???)**
+    * Max damage: 75
 2. **RECON BOLT (Arrow/Dart)**
     * Cooldown: 40s
-    * Duration: 3 pings; 1 ping every 1.5s
+    * Duration: 2 pings; 1st ping after 1.6s, 2nd ping after 1.2s
 3. **OWL DRONE (Drone)**
-    * Duration: 10s
+    * Duration: 7s
+    * HP: 100
 4. **HUNTER'S FURY (Ultimate)**
     * Duration: 6.5s (3 shots max)
 
@@ -296,7 +352,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 10s
     * Decoy HP: 150
 4. **DIMENSIONAL DRIFT (Ultimate)**
-    * Duration: 8s
+    * Duration: 12s
 
 ## Spike
 
