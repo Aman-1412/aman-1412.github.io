@@ -11,6 +11,10 @@ external-image: false
 # picture: assets/images/profile.jpg
 picture: assets/images/placeholder-profile-male-500x500-min.png
 
+# your site color theme, true for dark theme, 
+# false to light theme, auto to switch with system.
+dark-theme: false
+
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
@@ -24,10 +28,6 @@ permalink: /:slug/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
 # disqus:
@@ -46,24 +46,11 @@ webmaster_verifications:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: 
-  username: a_man_goyal
-  card: summary
+twitter: a_man_goyal
 # instagram: myinstagram
-# pinterest: mypinterest
 linkedin: -amangoyal
-# youtube: myyoutube
-# spotify: myspotify
 github: Aman-1412
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-email: goyal.amanr@gmail.com
+email: goyal.amanr+blog@gmail.com
 
 # Pro-tip: If authors is present in the document's front matter as an array (and author is not), the plugin will use the first author listed, as Twitter supports only one author.
 authors:
@@ -141,12 +128,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
   - jekyll-paginate-v2
   - jekyll-sitemap
-
-jekyll-mentions:
-  base_url: https://github.com
 
 compress_html:
   ignore:
@@ -156,7 +139,6 @@ compress_html:
 
 exclude:
   [
-    "travis.sh",
     "README.md",
     "Gemfile",
     "Gemfile.lock",

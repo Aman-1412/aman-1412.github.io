@@ -26,7 +26,6 @@ What has inside?
 - BrowserSync
 - Stylus
 - SVG
-- Travis
 - No JS
 - [100/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Famangoyal.me%2F)
 
