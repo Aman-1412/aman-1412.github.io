@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-04/"> **Patch 5.04; Released on: 2022-08-23** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-05/"> **Patch 5.05; Released on: 2022-09-07** </a>
 </span>
 
 ## Astra
