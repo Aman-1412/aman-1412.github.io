@@ -25,7 +25,7 @@ It's so annoying that Valorant doesn't have all the details about an ability lis
 **<u><i>DISCLAIMER:</i></u>** I'm not a 100% certain on these yet. I'll remove this disclaimer when I'm absolutely certain about these and will keep the post updated.
 
 <span class="evidence">
-Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-05/"> **Patch 5.05; Released on: 2022-09-07** </a>
+Updated for <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-12/"> **Patch 5.12; Released on: 2022-06-12** </a>
 </span>
 
 ## Astra
@@ -80,16 +80,20 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 8 bullets max; 4 in Spike Rush (Each bullet costs 150 creds)
     * Damage: 159 Head, 55 Body, 46 Legs
 2. **RENDEZVOUS (TP)**
+    * HP: 50
     * Recall cooldown: 30s
     * Base cooldown: 30s
-    * Destroy cooldown: 45s
-    * Diameter of the circle: 15m
+    * Destroy cooldown: Destruction remains permanent for the round
+    * Diameter of the circle: 13m
 3. **TRADEMARK (Bot?)**
-    * Slow duration: 6s
+    * HP: 20
+    * Slow duration: 4s
+    * Recall cooldown: 30s
+    * Destroy cooldown: Destruction remains permanent for the round
 4. **TOUR DE FORCE (Awp)**
     * Sniper that slows nearby enemies <strike>and one shots even legs.</strike> Patch 5.03 killed this. Leg damage: 0.85x
     * Duration: 5 bullets max
-    * Slow duration: 6s
+    * Slow duration: 4s
 
 ## Cypher
 
@@ -100,23 +104,26 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Recall cooldown: Instant during buytime; 15s mid-round
     * Destroy cooldown: 45s
 3. **TRAPWIRE (Trip)**
+    * HP: 20
     * Recall cooldown: Instant
 4. **NEURAL THEFT (Ultimate)**
+    * Reveals enemies two times. There is a four second delay between the reveals
 
 ## Fade
 
-1. **Seize (???)**
+1. **Seize (???)** 
     * Radius: <UNKNOWN>
     * Duration: Until it hits the ground ; MB1 to drop it earlier
     * Deafens and decays by 75hp (restored over 5s)
     * Duration: 4.5 s
-2. **Haunt (Recon)**
+2. **Haunt (Recon)** 
     * Duration: 2s ; MB1 to drop it earlier
     * Trail duration: 12s
     * Cooldown: 40s
-3. **Prowler (Dog)**
-    * Duration: 3s
-    * Blind duration: 3.5s
+3. **Prowler (Dog)** 
+    * HP: 60
+    * Duration: 2.5s
+    * Blind duration: 2.75s
     * Hold MB1 to steer it
     * Will chase the enemies/trail
 4. **Nightfall (Ultimate)**
@@ -124,6 +131,23 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Deafens and decays by 75hp (restored over 12s)
 
 
+## Harbor
+
+1. **COVE**
+    * HP: 500
+    * Duration: 15s or 1s after broken
+
+2. **HIGH TIDE** 
+    * Wall control duration: 2s
+    * Duration: 15s
+    * Cooldown: 40s
+
+3. **CASCADE**
+    * Duration: 7s
+
+4. **RECKONING (Ultimate)**
+    * Duration: 9s
+    * Stun duration: 2s
 
 ## Jett
 
@@ -144,8 +168,9 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 ## KAY/O
 
 1. **FLASH/drive**
-    * Enemies flashed for 2s
+    * Enemies flashed for: Left click - 2.25s & Right click - 1.25s
 2. **ZERO/point (Knife)**
+    * HP: 20
     * Suppress duration: 8s
     * Cooldown: 40s
 3. **FRAG/ment (Molly)**
@@ -171,10 +196,12 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * HP: 125
     * DMG: 11/burst and slows the enemy by 29.5%
 3. **NANOSWARM (Molly)**
+    * HP: 20
 	* Recall cooldown: Instant during buytime 
     * Duration: 5s
     * DPS: 45/s (Friendly: 15/s)
 4. **LOCKDOWN (Ultimate)**
+    * HP: 200
     * Lockdown activated in: 15s
     * Detain Duration: 8s
 
@@ -239,12 +266,14 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 ## Raze
 
 1. **BLAST PACK (Satchel)**
+    * HP: 20
     * Duration: 5s
     * Damage to objects: 600 (including sage walls)
 2. **PAINT SHELLS (Nade)**
     * Duration: 2s + sub-munitions explode after dropping on the ground
     * Get 2 kills to get another nade
 3. **BOOM BOT (bomb buddy?)**
+    * HP: 60
     * Duration: 10s
     * Max damage: 80
     * Min damage: 30
@@ -260,6 +289,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 3. **LEER (Flash)**
 	* HP: 100
     * Enemies flashed for 2s unless destroyed
+    * No range restriction
 4. **EMPRESS (Ultimate)**
     * Duration: 30s. Every kill resets the duration (Fire rate increases by 15%)
 
@@ -269,11 +299,11 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 7s
     * Pro tip: Walking through the slow orb doesn't make sound
 2. **HEALING ORB (Heal)**
-    * Healing teammates: 60/5s
-    * Self heal: 60/10s
+    * Healing teammates: 100HP/5s
+    * Self heal: 30HP/10s
     * Cooldown: 45s
 3. **BARRIER ORB (Wall)**
-    * 400 HP for the first 3s; Fortified to 800 HP after that; Lasts a total of 30s
+    * 400 HP for the first 3.3s; Fortified to 800 HP after that; Lasts a total of 30s
     * Range: 10m
 4. **RESURRECTION (Ultimate/Rez/Rebibe)**
 
@@ -284,9 +314,9 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * Duration: 5s
     * Stun duration: 4s
 2. **GUIDING LIGHT (Flash)**
-    * HP: 60
+    * HP: INF - cannot be destroyed
     * Time until it becomes a dud: 2.5s
-    * Enemies flashed for: 2s   ------------------ Might not be very accurate ------------------
+    * Enemies flashed for: Min - 1s; Max - 2.25s
 	* Gives a distinct sound and yells "Blinded" when an enemy is blinded by the flash. ugh.
 	* Cooldown: 40s
 3. **REGROWTH (Heal)**
@@ -302,6 +332,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
 1. **SHOCK BOLT (???)**
     * Max damage: 75
 2. **RECON BOLT (Arrow/Dart)**
+    * HP: 20
     * Cooldown: 40s
     * Duration: 2 pings; 1st ping after 1.6s, 2nd ping after 1.2s
 3. **OWL DRONE (Drone)**
@@ -309,6 +340,7 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * HP: 100
 4. **HUNTER'S FURY (Ultimate)**
     * Duration: 6.5s (3 shots max)
+    * Damager Per Shot: 
 
 ## Viper
 
@@ -334,17 +366,19 @@ Stars are now inactive when placed during the buy phase until 1.4s after the bar
     * DPS: 24/s (Friendly: 8/s) + Vulnerable
 4. **VIPER'S PIT (Ultimate)**
     * Duration (full activation): 5s
-	* Decay: Instant decay of 30hp; 10hp/s after. (Patch 2.09)
+	* Duration (reactivation): 25s
+    * Decay: Instant decay of 30hp; 10hp/s after. (Patch 2.09)
 	* Health regen starts 1.5s after leaving the poison
-    * Duration you can stay outside the pit: 15s
+    * Duration you can stay outside the pit: 8s
     * Health regen after: 1.5s
     * Health regen rate: 25hp/s
 
 ## Yoru
 
 1. **BLINDSIDE (Flash)**
-    * Enemies flashed for 1.5s 
+    * Enemies flashed for 1.75s 
 2. **GATECRASH (Teleport/TP)**
+    * HP: 60
     * Charges: 2
     * Get 2 kills to get another Gatecrash
     * Duration: 30s unless it is destroyed
