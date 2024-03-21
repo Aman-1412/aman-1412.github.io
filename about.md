@@ -7,7 +7,7 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Data-driven programmer having 2+ years of experience in Big Data and Data Science with a key focus on deliveries. Delivered valuable insights for the FX clients at HSBC. Advanced knowledge in Machine Learning, Python and InfoSec.</p>
+<p>Data-driven programmer having 6+ years of experience in Big Data and Data Science with a key focus on deliveries. Delivered valuable insights for the FX clients at HSBC. Advanced knowledge in Machine Learning, Python and InfoSec.</p>
 
 
 <p>My abilities as a Data Scientist are rooted in a sturdy education during my university days. I did my bachelor's degree at the prestigious L D College of Engineering under Gujarat Technological University where I studied Information Technology. My university provided me ample opportunities to showcase my skills in Data Science - in terms of state-level exhibitions and competitions, and university level project showcases. With that practical experience and my internship in the early days, I found myself maturing in this field quite earlier.</p>
